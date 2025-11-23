@@ -56,6 +56,15 @@ Comprehensive system for managing blood bank operations
 Predictive models using ARIMA and LSTM neural networks
 - Real-time price prediction
 - Data visualization and analysis
+- 
+### 🎮 KBC-Inspired Quiz Game
+**Interactive Project** | Game Development & UI Design
+
+Quiz game inspired by Kaun Banega Crorepati (KBC) featuring multiple-choice questions and scoring system
+
+- Interactive question-answer format
+- Score tracking and leaderboard
+- Engaging user interface
 
 ---
 
