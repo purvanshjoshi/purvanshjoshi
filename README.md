@@ -1,10 +1,11 @@
 # Hi there, I'm Purvansh Joshi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Machine+Learning+%26+Cloud+Enthusiast;Research+Scholar+%7C+IEEE+Member;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Machine+Learning+%26+Cloud+Enthusiast;Research+Scholar+%7C+IEEE+Member;  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3F51B5¢er=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Machine+Learning+%26+Cloud+Enthusiast;Research+Scholar+%7C+IEEE+Member;Specialization+in+Data+Science+%26+AI" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
+4
 
 🎓 **Computer Science Engineering Student** at Graphic Era University (GEHU)  
 🔬 **Research Scholar** working on Bio-Spatial Encoding and Adaptive Flow Search (BIOSAFS) framework  
@@ -41,11 +42,9 @@
 
 ## 🔥 Featured Projects
 
-### 🧬 BIOSAFS - Genome Data Compression Framework
+### 🧬 45 - Genome Data Compression Framework
 **Research Project** | Bio-Spatial Encoding and Adaptive Flow Search  
 Developing an innovative framework for efficient genome data compression and querying  
-- 60% project completion (2-phase evaluation)
-- Team of 4 researchers
 - Advanced algorithms for data structures optimization
 
 ### 🏥 Blood Bank Management System
