@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Computer+Science+Engineering+Student;Machine+Learning+%26+Cloud+Enthusiast;Research+Scholar+%7C+IEEE+Member;Specialization+in+Data+Science+%26+AI" alt="Typing SVG" />
 </div>
+
 ## 🚀 About Me
 
 🎓 **Computer Science Engineering Student** at Graphic Era University (GEHU)  
@@ -56,12 +57,10 @@ Comprehensive system for managing blood bank operations
 Predictive models using ARIMA and LSTM neural networks
 - Real-time price prediction
 - Data visualization and analysis
-- 
+
 ### 🎮 KBC-Inspired Quiz Game
-**Interactive Project** | Game Development & UI Design
-
+**Interactive Project** | Game Development & UI Design  
 Quiz game inspired by Kaun Banega Crorepati (KBC) featuring multiple-choice questions and scoring system
-
 - Interactive question-answer format
 - Score tracking and leaderboard
 - Engaging user interface
@@ -71,12 +70,16 @@ Quiz game inspired by Kaun Banega Crorepati (KBC) featuring multiple-choice ques
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purvanshjoshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purvanshjoshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purvanshjoshi&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
 
 ---
@@ -96,7 +99,7 @@ Quiz game inspired by Kaun Banega Crorepati (KBC) featuring multiple-choice ques
 ✅ **AWS Certified Cloud Practitioner**  
 ✅ **Google Cloud Gen AI Exchange Program Participant**  
 ✅ **IEEE Student Branch Active Member**  
-✅ **Keynote Anchor** 
+✅ **Keynote Anchor**  
 ✅ **Workshop Organizer** for IEEE Technical Sessions
 
 ---
