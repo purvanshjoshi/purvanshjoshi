@@ -124,3 +124,5 @@ Quiz game inspired by Kaun Banega Crorepati (KBC) featuring multiple-choice ques
 <div align="center">
   <i>"Turning data into insights, algorithms into solutions, and ideas into reality."</i>
 </div>
+
+<!-- Updated on November 25, 2025 -->
