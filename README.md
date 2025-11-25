@@ -70,14 +70,13 @@ Quiz game inspired by Kaun Banega Crorepati (KBC) featuring multiple-choice ques
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purvanshjoshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://streak-stats.demolab.com?user=purvanshjoshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </div>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purvanshjoshi&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
