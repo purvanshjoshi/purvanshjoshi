@@ -10,7 +10,7 @@
 
 🎓 **Computer Science Engineering Student** at Graphic Era University (GEHU)  
 🔬 **Research Scholar** working on Bio-Spatial Encoding and Adaptive Flow Search (BIOSAFS) framework  
-☁️ **AWS Certified Cloud Practitioner** | Google Cloud Gen AI Exchange Program Participant  
+☁️  Google Cloud Gen AI Exchange Program Participant  
 🏆 **IEEE Student Branch Member** | Event Anchor & Workshop Organizer  
 💡 Passionate about **Machine Learning**, **Cloud Computing**, and **Data Structures & Algorithms**  
 🌟 **Open Source Contributor** 
@@ -99,7 +99,7 @@
 
 ## 🏆 Achievements & Certifications
 
-✅ **AWS Certified Cloud Practitioner**  
+✅ **AWS Certified Cloud Practitioner** 
 ✅ **Google Cloud Gen AI Exchange Program Participant**  
 ✅ **IEEE Student Branch Active Member**  
 ✅ **Keynote Anchor** for technical events  
