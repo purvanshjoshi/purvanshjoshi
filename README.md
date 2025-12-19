@@ -70,7 +70,7 @@
 **Interactive Project** | Game Development & UI Design  
 - Quiz game inspired by Kaun Banega Crorepati (KBC)
 - Features multiple-choice questions and scoring system
-- Interactive user interface with leaderboard functionality
+- Interactive user interface with leaderboard functionality.
 
 ---
 
