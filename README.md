@@ -13,7 +13,7 @@
 ☁️  Google Cloud Gen AI Exchange Program Participant  
 🏆 **IEEE Student Branch Member** | Event Anchor & Workshop Organizer  
 💡 Passionate about **Machine Learning**, **Cloud Computing**, and **Data Structures & Algorithms**  
-🌟 **Open Source Contributor** .
+🌟 **Open Source Contributor** 
 
 ---
 
