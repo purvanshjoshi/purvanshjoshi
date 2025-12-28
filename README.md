@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me :-
+## 🚀 About Me:-
 
 🎓 **Computer Science Engineering Student** at Graphic Era University (GEHU)  
 🔬 **Research Scholar** working on Bio-Spatial Encoding and Adaptive Flow Search (BIOSAFS) framework  
