@@ -48,7 +48,7 @@
 
 ## 🔥 Featured Projects:-
 
-### 🧬 45 - Genome Data Compression Framework
+### 🧬 45 - Genome Data Compression Framework:-
 **Research Project** | Bio-Spatial Encoding and Adaptive Flow Search  
 - Developing an innovative framework for efficient genome data compression and querying
 - Advanced algorithms for data structures optimization
