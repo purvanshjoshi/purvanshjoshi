@@ -54,7 +54,7 @@
 - Advanced algorithms for data structures optimization
 - Published research focusing on bioinformatics applications
 
-### 🏥 Blood Bank Management System
+### 🏥 Blood Bank Management System:-
 **Academic Project** | Database Management & System Design  
 - Comprehensive full-stack system for managing blood bank operations
 - PBL (Project-Based Learning) implementation
