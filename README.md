@@ -60,7 +60,7 @@
 - PBL (Project-Based Learning) implementation
 - Full-stack development with modern tech stack
 
-### 📈 Stock Price Prediction
+### 📈 Stock Price Prediction:-
 **Machine Learning Project** | Time Series Forecasting  
 - Predictive models using ARIMA and LSTM neural networks
 - Real-time price prediction and data visualization
