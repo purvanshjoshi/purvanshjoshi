@@ -66,7 +66,7 @@
 - Real-time price prediction and data visualization
 - Advanced statistical analysis and forecasting techniques
 
-### 🎮 KBC-Inspired Quiz Game
+### 🎮 KBC-Inspired Quiz Game:-
 **Interactive Project** | Game Development & UI Design  
 - Quiz game inspired by Kaun Banega Crorepati (KBC)
 - Features multiple-choice questions and scoring system
