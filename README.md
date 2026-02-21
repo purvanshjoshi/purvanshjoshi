@@ -71,32 +71,21 @@ I am a **Software Architect** and **Machine Learning Engineer** driven by techni
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td>
 <a href="https://github.com/purvanshjoshi/hackquest-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=hackquest-ai&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=hackquest-ai&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="400" />
 </a>
-</td>
-<td>
 <a href="https://github.com/purvanshjoshi/clinical-risk-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=clinical-risk-predictor&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=clinical-risk-predictor&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="400" />
 </a>
-</td>
-</tr>
-<tr>
-<td>
+
+<br/>
+
 <a href="https://github.com/purvanshjoshi/Stock-Price-Predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=Stock-Price-Predictor&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=Stock-Price-Predictor&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="400" />
 </a>
-</td>
-<td>
 <a href="https://github.com/purvanshjoshi/kbc-quiz-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=kbc-quiz-game&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=kbc-quiz-game&theme=react&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="400" />
 </a>
-</td>
-</tr>
-</table>
 
 </div>
 
