@@ -21,27 +21,14 @@
 <!-- About Section -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-```yaml
-name: Purvansh Joshi
-location: India
-education: B.Tech Computer Science Engineering @ Graphic Era University
+I am a results-driven **Full-Stack Developer** and **Machine Learning Engineer** focused on architecting intelligent systems that bridge the gap between complex data and actionable insights. Currently, I am a **Research Scholar** specializing in Bio-Spatial Encoding frameworks and a core contributor to high-impact open-source initiatives in cancer genomics and autonomous satellite systems.
 
-roles:
-  - Full-Stack Developer
-  - ML & Cloud Engineer
-  - Research Scholar
-  - Open Source Contributor
+### 🌟 Professional Snapshot
+- 💻 **Full-Stack Engineering**: Expertise in building scalable backend architectures with **Spring Boot** and **FastAPI**, with a focus on system reliability and performance.
+- 🧪 **AI & Research**: Developing novel algorithms for genome data compression (**BIOSAFS**) and implementing real-time anomaly detection for aerospace telemetry.
+- 🤝 **Open Source Leadership**: Actively contributing to industrial-scale platforms like **cBioPortal**, where I focus on security features, API optimization, and CI/CD robustness.
+- 📡 **Leadership & Community**: Active member of the **IEEE Student Branch**, serving as a keynote anchor and workshop organizer to foster technical growth in the community.
 
-current_work:
-  - Contributing to cBioPortal — Open-source cancer genomics platform
-  - Building AstraGuard-AI — Autonomous CubeSat fault detection system
-  - Research on BIOSAFS — Bio-Spatial Encoding & Adaptive Flow Search framework
-
-communities:
-  - IEEE Student Branch — Event Anchor & Workshop Organizer
-  - Google Cloud Gen AI Exchange Program Participant
-  - Active Open Source Contributor
-```
 
 <br/>
 
