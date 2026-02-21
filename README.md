@@ -96,11 +96,17 @@ I am a **Software Architect** and **Machine Learning Engineer** driven by techni
 
 ---
 
-### **System Data**
+### **Growth Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purvanshjoshi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true&custom_title=Consistency" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purvanshjoshi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=161b22&hide_border=true&custom_title=System%20Consistency" width="98%" />
 </div>
 
 <br/>
