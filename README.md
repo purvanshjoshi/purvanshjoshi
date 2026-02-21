@@ -1,131 +1,293 @@
-# <div align="center">Hi there, I'm Purvansh Joshi! 👋</div>
-
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3F51B5&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;ML+%26+Cloud+Enthusiast;Research+Scholar;Open+Source+Contributor;Specialization+in+Data+Science+%26+AI" alt="Typing SVG" />
+
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Purvansh%20Joshi&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%7C%20Open%20Source%20Contributor&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Full-Stack+Developer+%7C+ML+%26+Cloud+Engineer;Open+Source+Contributor+%7C+Research+Scholar" alt="Typing SVG" />
+
+<br/>
+
+<!-- Quick Links -->
+[![Portfolio](https://img.shields.io/badge/purvanshjoshi.tech-000?style=for-the-badge&logo=firefox&logoColor=58a6ff)](https://purvanshjoshi.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvansh-joshi)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purvanshjoshi7534011576@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=purvanshjoshi&style=for-the-badge&color=161b22&label=VISITORS)](https://github.com/purvanshjoshi)
+
 </div>
 
----
+<br/>
 
-## 🚀 About Me:-
+<!-- About Section -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-🎓 **Computer Science Engineering Student** at Graphic Era University (GEHU)  
-🔬 **Research Scholar** working on Bio-Spatial Encoding and Adaptive Flow Search (BIOSAFS) framework  
-☁️  Google Cloud Gen AI Exchange Program Participant  
-🏆 **IEEE Student Branch Member** | Event Anchor & Workshop Organizer  
-💡 Passionate about **Machine Learning**, **Cloud Computing**, and **Data Structures & Algorithms**  
-🌟 **Open Source Contributor** 
+```yaml
+name: Purvansh Joshi
+location: India
+education: B.Tech Computer Science Engineering @ Graphic Era University
 
----
+roles:
+  - Full-Stack Developer
+  - ML & Cloud Engineer
+  - Research Scholar
+  - Open Source Contributor
 
-## 💻 Tech Stack:-
+current_work:
+  - Contributing to cBioPortal — Open-source cancer genomics platform
+  - Building AstraGuard-AI — Autonomous CubeSat fault detection system
+  - Research on BIOSAFS — Bio-Spatial Encoding & Adaptive Flow Search framework
 
-### Programming Languages:-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)
+communities:
+  - IEEE Student Branch — Event Anchor & Workshop Organizer
+  - Google Cloud Gen AI Exchange Program Participant
+  - Active Open Source Contributor
+```
 
-### Machine Learning & Data Science:-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<br/>
 
-### Cloud & DevOps:-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!-- Tech Stack -->
+## 🛠️ &nbsp;Tech Stack
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 🔥 Featured Projects:-
+</details>
 
-### 🧬 45 - Genome Data Compression Framework:-
-**Research Project** | Bio-Spatial Encoding and Adaptive Flow Search  
-- Developing an innovative framework for efficient genome data compression and querying
-- Advanced algorithms for data structures optimization
-- Published research focusing on bioinformatics applications
+<details open>
+<summary><b>Backend & Frameworks</b></summary>
+<br/>
 
-### 🏥 Blood Bank Management System:-
-**Academic Project** | Database Management & System Design  
-- Comprehensive full-stack system for managing blood bank operations
-- PBL (Project-Based Learning) implementation
-- Full-stack development with modern tech stack
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### 📈 Stock Price Prediction:-
-**Machine Learning Project** | Time Series Forecasting  
-- Predictive models using ARIMA and LSTM neural networks
-- Real-time price prediction and data visualization
-- Advanced statistical analysis and forecasting techniques
+</details>
 
-### 🎮 KBC-Inspired Quiz Game:-
-**Interactive Project** | Game Development & UI Design  
-- Quiz game inspired by Kaun Banega Crorepati (KBC)
-- Features multiple-choice questions and scoring system
-- Interactive user interface with leaderboard functionality
+<details open>
+<summary><b>ML / AI / Data Science</b></summary>
+<br/>
 
----
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-## 📊 GitHub Statistics:-
+</details>
+
+<details open>
+<summary><b>Cloud, DevOps & Databases</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</details>
+
+<br/>
+
+<!-- Featured Projects -->
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 [cBioPortal](https://github.com/cBioPortal/cbioportal)
+**Open-Source Cancer Genomics Platform**
+
+Active contributor to one of the most widely-used cancer genomics platforms in the world.
+
+`Java` `Spring Boot` `JUnit 5` `CircleCI` `REST API`
+
+- 🔧 Implemented API rate limiting for production security
+- 🧪 Migrated test suites to JUnit 5
+- 🔄 Diagnosed & fixed CI/CD pipeline regressions
+- 🔐 Designed separate read/download permission system
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ [AstraGuard-AI](https://github.com/purvanshjoshi/AstraGuard-AI-Apertre-3.0)
+**Autonomous CubeSat Fault Detection**
+
+Real-time telemetry simulation, anomaly detection, and autonomous recovery for satellite systems.
+
+`Python` `FastAPI` `Streamlit` `Next.js` `ML`
+
+- 📊 Built systems monitoring dashboard with live telemetry
+- ⚡ Implemented graceful shutdown & dead letter queue
+- 🧠 Anomaly detection with adaptive thresholds
+- 🎥 3D attitude visualization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [HackQuest-AI](https://github.com/purvanshjoshi/hackquest-ai)
+**Agentic Hackathon Intelligence Platform**
+
+AI-powered tournament discovery with real-time portal scraping and predictive judge simulation.
+
+`Python` `AI Agents` `Web Scraping` `RAG`
+
+- 🤖 Skill-based hackathon matching engine
+- 📡 Real-time multi-portal aggregation
+- 📝 AI-powered submission generation
+- 🏆 Predictive judge simulation system
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 [Clinical Risk Predictor](https://github.com/purvanshjoshi/clinical-risk-predictor)
+**AI-Driven Preventive Care System**
+
+Decision support system for diabetes and chronic disease risk stratification.
+
+`Python` `ML` `Healthcare AI` `Data Science`
+
+- 🩺 Multi-disease risk stratification
+- 📊 Clinical data analysis pipeline
+- 🔮 Predictive modeling with ensemble methods
+- 🏅 Built for Praxis Hackathon 2025
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [JARVIS AI Assistant](https://github.com/purvanshjoshi/jarvis-ai-assistant)
+**Full-Stack AI Assistant System**
+
+Advanced AI assistant with voice control, real-time monitoring, and intelligent command execution.
+
+`Python` `PySide6` `AI` `Computer Vision`
+
+- 🎙️ Voice-controlled command system
+- 📹 Live camera feed with object detection
+- 📈 Real-time system monitoring dashboard
+- ⚡ Intelligent task automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [Genome Assembly](https://github.com/purvanshjoshi/genomeassembly)
+**BIOSAFS Research Framework**
+
+Bio-Spatial Encoding and Adaptive Flow Search for efficient genome data compression and querying.
+
+`Python` `Bioinformatics` `Algorithms` `Research`
+
+- 🔬 Novel genome data compression algorithms
+- 🧪 Adaptive flow search optimization
+- 📄 Published research in bioinformatics
+- 📊 Data structures optimization for genomic data
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GitHub Stats -->
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-<img src="https://streak-stats.demolab.com?user=purvanshjoshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=purvanshjoshi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" />
 </div>
 
----
+<br/>
 
-## 🎯 Current Focus
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purvanshjoshi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Activity" width="95%" />
+</div>
 
-🔭 **Working on:** BIOSAFS Research Project (Genome Data Processing)  
-🌱 **Learning:** Advanced Machine Learning & Cloud Architecture  
-👯 **Open to collaborate on:** ML Projects & Open Source  
-📝 **Writing research papers on:** Data Structures & Algorithms  
-🎤 **Hosting technical events and workshops** at IEEE Student Branch
+<br/>
 
----
+<!-- Current Focus -->
+## 🎯 &nbsp;What I'm Up To
 
-## 🏆 Achievements & Certifications
+| | |
+|---|---|
+| 🔭 **Contributing to** | [cBioPortal](https://github.com/cBioPortal/cbioportal) — open-source cancer genomics platform |
+| 🛰️ **Building** | [AstraGuard-AI](https://github.com/purvanshjoshi/AstraGuard-AI-Apertre-3.0) — autonomous CubeSat fault detection & recovery |
+| 🔬 **Researching** | BIOSAFS framework — genome data compression & querying |
+| 🌱 **Learning** | Distributed systems, cloud-native architecture, advanced Spring Boot |
+| 👯 **Collaborating on** | ML projects, open-source tools, and cloud-native applications |
+| 📝 **Writing** | Research papers on data structures & algorithm optimization |
 
-✅ **AWS Certified Cloud Practitioner** 
-✅ **Google Cloud Gen AI Exchange Program Participant**  
-✅ **IEEE Student Branch Active Member**  
-✅ **Keynote Anchor** for technical events  
-✅ **Workshop Organizer** for IEEE Technical Sessions  
-✅ **Hackathon Participant** - National Level 24-hour Hackathon (Team: The Imposters)
+<br/>
 
----
-
-## 📫 Let's Connect
+<!-- Achievements -->
+## 🏆 &nbsp;Achievements & Certifications
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvansh-joshi)
+| | Achievement | Details |
+|---|---|---|
+| 🔬 | **cBioPortal Contributor** | API rate limiting, JUnit 5 migrations, CI/CD fixes for cancer genomics platform |
+| 🛰️ | **AstraGuard-AI Contributor** | Systems dashboard, graceful shutdown, Dead Letter Queue implementation |
+| ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services cloud certification |
+| 🤖 | **Google Cloud Gen AI Exchange** | Selected participant in Google's generative AI program |
+| 🏅 | **Praxis Hackathon 2025** | Built Clinical Risk Predictor — AI preventive care system |
+| 🎤 | **IEEE Technical Events** | Keynote anchor & workshop organizer at IEEE Student Branch |
+| 💻 | **National Hackathon Finalist** | 24-hour national level hackathon (Team: The Imposters) |
+
+</div>
+
+<br/>
+
+<!-- Connect -->
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purvansh-joshi)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/purvanshjoshi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simply_purva01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purvanshjoshi7534011576@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://purvanshjoshi.tech)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simply_purva01)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purvanshjoshi7534011576@gmail.com)
+
+<br/><br/>
+
+### 💬 *"Transforming ideas into intelligent systems — one commit at a time."*
+
+<br/>
 
 </div>
 
----
-
-<div align="center">
-
-### "Transforming Ideas into Intelligent Solutions Through Code, Cloud, and Continuous Learning."
-
-![Profile Views](https://komarev.com/ghpvc/?username=purvanshjoshi&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
