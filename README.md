@@ -102,104 +102,68 @@ I am a results-driven **Full-Stack Developer** and **Machine Learning Engineer**
 <!-- Featured Projects -->
 ## 🚀 &nbsp;Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🧬 [cBioPortal](https://github.com/cBioPortal/cbioportal)
-**Open-Source Cancer Genomics Platform**
+*Open-Source Cancer Genomics Platform*
+> Active contributor to the world's most widely-used cancer genomics platform. Focused on security architectures, performance optimization, and CI/CD resiliency.
+- **Security**: Implemented advanced **API Rate Limiting** to protect production endpoints.
+- **Reliability**: Migrated mission-critical test suites to **JUnit 5** and fixed complex CI/CD regressions.
+- **Access Control**: Architected separate read/download permission systems for clinical studies.
+`Java` `Spring Boot` `REST API` `CircleCI` `Security`
 
-Active contributor to one of the most widely-used cancer genomics platforms in the world.
-
-`Java` `Spring Boot` `JUnit 5` `CircleCI` `REST API`
-
-- 🔧 Implemented API rate limiting for production security
-- 🧪 Migrated test suites to JUnit 5
-- 🔄 Diagnosed & fixed CI/CD pipeline regressions
-- 🔐 Designed separate read/download permission system
-
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🛰️ [AstraGuard-AI](https://github.com/purvanshjoshi/AstraGuard-AI-Apertre-3.0)
-**Autonomous CubeSat Fault Detection**
+*Autonomous CubeSat Fault Detection & Recovery*
+> An intelligent system for real-time telemetry monitoring and autonomous recovery of satellite missions.
+- **Monitoring**: Built a high-performance **Systems Dashboard** with live telemetry visualization.
+- **Resiliency**: Developed **Graceful Shutdown** protocols and **Dead Letter Queue** (DLQ) integrations.
+- **Intelligence**: Integrated adaptive anomaly detection models for proactive fault identification.
+`Python` `FastAPI` `Next.js` `Streamlit` `Machine Learning`
 
-Real-time telemetry simulation, anomaly detection, and autonomous recovery for satellite systems.
-
-`Python` `FastAPI` `Streamlit` `Next.js` `ML`
-
-- 📊 Built systems monitoring dashboard with live telemetry
-- ⚡ Implemented graceful shutdown & dead letter queue
-- 🧠 Anomaly detection with adaptive thresholds
-- 🎥 3D attitude visualization
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
 ### 🎯 [HackQuest-AI](https://github.com/purvanshjoshi/hackquest-ai)
-**Agentic Hackathon Intelligence Platform**
+*Agentic Tournament Intelligence Platform*
+> AI-powered intelligence engine for hackathon discovery, skill-matching, and submission generation.
+- **Intelligence**: Developed a multi-agent system for real-time portal scraping and aggregation.
+- **Automation**: Predictive judge simulation and AI-powered submission drafting.
+- **Matching**: Built a high-accuracy skill-based matching engine for team formation.
+`AI Agents` `Python` `Web Crawling` `Predictive Modeling`
 
-AI-powered tournament discovery with real-time portal scraping and predictive judge simulation.
+<br/>
 
-`Python` `AI Agents` `Web Scraping` `RAG`
+### 🛡️ [Chaos Kitten](https://github.com/purvanshjoshi/chaos-kitten)
+*Agentic API Security Testing & Vulnerability Discovery*
+> An intelligent security testing tool designed for the CNCF ecosystem to autonomously discover API vulnerabilities.
+- **Security**: Advanced automated fuzzing and vulnerability scanning for REST/GraphQL APIs.
+- **Automation**: Agentic reasoning to identify complex logic flaws in distributed systems.
+- **Ecosystem**: Built for seamless integration within cloud-native environments.
+`Cybersecurity` `Agentic AI` `API Security` `CNCF` `GO`
 
-- 🤖 Skill-based hackathon matching engine
-- 📡 Real-time multi-portal aggregation
-- 📝 AI-powered submission generation
-- 🏆 Predictive judge simulation system
-
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🏥 [Clinical Risk Predictor](https://github.com/purvanshjoshi/clinical-risk-predictor)
-**AI-Driven Preventive Care System**
+*AI-Driven Preventive Care Decision Support*
+> Precision medicine platform for diabetes and chronic disease risk stratification.
+- **Analysis**: End-to-end clinical data pipelines for multi-disease risk assessment.
+- **Modeling**: High-precision predictive modeling using ensemble learning techniques.
+- **Impact**: Developed for **Praxis Hackathon 2025** to solve real-world healthcare challenges.
+`Healthcare AI` `Data Science` `Ensemble Learning` `Python`
 
-Decision support system for diabetes and chronic disease risk stratification.
+<br/>
 
-`Python` `ML` `Healthcare AI` `Data Science`
+### 🍓 [FraiseQL](https://github.com/purvanshjoshi/fraiseql)
+*High-Performance GraphQL-to-PostgreSQL Framework*
+> Modern framework for automatic type generation, efficient caching, and comprehensive security.
+- **Performance**: Built-in caching layers and specialized query optimizations.
+- **Developer XP**: Automatic type generation and seamless PostgreSQL integration.
+- **Security**: Integrated security features to mitigate common GraphQL vulnerabilities.
+`GraphQL` `PostgreSQL` `Python` `Caching` `Framework`
 
-- 🩺 Multi-disease risk stratification
-- 📊 Clinical data analysis pipeline
-- 🔮 Predictive modeling with ensemble methods
-- 🏅 Built for Praxis Hackathon 2025
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [JARVIS AI Assistant](https://github.com/purvanshjoshi/jarvis-ai-assistant)
-**Full-Stack AI Assistant System**
-
-Advanced AI assistant with voice control, real-time monitoring, and intelligent command execution.
-
-`Python` `PySide6` `AI` `Computer Vision`
-
-- 🎙️ Voice-controlled command system
-- 📹 Live camera feed with object detection
-- 📈 Real-time system monitoring dashboard
-- ⚡ Intelligent task automation
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 [Genome Assembly](https://github.com/purvanshjoshi/genomeassembly)
-**BIOSAFS Research Framework**
-
-Bio-Spatial Encoding and Adaptive Flow Search for efficient genome data compression and querying.
-
-`Python` `Bioinformatics` `Algorithms` `Research`
-
-- 🔬 Novel genome data compression algorithms
-- 🧪 Adaptive flow search optimization
-- 📄 Published research in bioinformatics
-- 📊 Data structures optimization for genomic data
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -224,17 +188,30 @@ Bio-Spatial Encoding and Adaptive Flow Search for efficient genome data compress
 
 <br/>
 
-<!-- Current Focus -->
-## 🎯 &nbsp;What I'm Up To
+<!-- Research Section -->
+## 🔬 &nbsp;Research & Publications
 
-| | |
+> [!TIP]
+> **BIOSAFS**: *Bio-Spatial Encoding and Adaptive Flow Search*
+> A novel framework for efficient genome data compression and querying, focusing on optimizing data structures for ultra-fast genomic sequence analysis.
+
+- **Focus**: Bioinformatics, Algorithm Optimization, Data Compression.
+- **Status**: Active research and framework development.
+- **Impact**: Advancing computational efficiency in large-scale genomic data processing.
+
+<br/>
+
+<!-- Current Focus -->
+## 🎯 &nbsp;Current Focus
+
+| Area | Involvement |
 |---|---|
-| 🔭 **Contributing to** | [cBioPortal](https://github.com/cBioPortal/cbioportal) — open-source cancer genomics platform |
-| 🛰️ **Building** | [AstraGuard-AI](https://github.com/purvanshjoshi/AstraGuard-AI-Apertre-3.0) — autonomous CubeSat fault detection & recovery |
-| 🔬 **Researching** | BIOSAFS framework — genome data compression & querying |
-| 🌱 **Learning** | Distributed systems, cloud-native architecture, advanced Spring Boot |
-| 👯 **Collaborating on** | ML projects, open-source tools, and cloud-native applications |
-| 📝 **Writing** | Research papers on data structures & algorithm optimization |
+| 🧬 **Genomics** | Core contributor to **cBioPortal** (Open Source) |
+| 🛰️ **Aerospace** | Building **AstraGuard-AI** for fault detection |
+| 🔬 **Research** | BIOSAFS Framework development |
+| 🌱 **Learning** | Cloud-native architectures & distributed systems |
+| 👯 **Collaboration** | Open to AI/ML and Infrastructure projects |
+
 
 <br/>
 
