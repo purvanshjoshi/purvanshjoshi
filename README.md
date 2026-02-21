@@ -70,49 +70,45 @@ I am a **Software Architect** and **Machine Learning Engineer** driven by techni
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=100&section=header&text=🎯%20HackQuest-AI&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
-</div>
 
-> **Agentic Tournament Intelligence**
-> An intelligent ecosystem for automated hackathon discovery and skill-based team matching. It leverages multi-agent orchestration for real-time scraping and predictive simulations.
-> <img src="https://skillicons.dev/icons?i=python,fastapi,scikit-learn&theme=dark" height="25" />
+<table border="0">
+<tr>
+<td>
+<a href="https://github.com/purvanshjoshi/hackquest-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=hackquest-ai&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+</a>
+</td>
+<td>
+<a href="https://github.com/purvanshjoshi/clinical-risk-predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=clinical-risk-predictor&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://github.com/purvanshjoshi/Stock-Price-Predictor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=Stock-Price-Predictor&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+</a>
+</td>
+<td>
+<a href="https://github.com/purvanshjoshi/kbc-quiz-game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=purvanshjoshi&repo=kbc-quiz-game&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=100&section=header&text=🏥%20Clinical%20Risk%20Predictor&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
-</div>
-
-> **AI-Driven Preventive Care**
-> Predictive decision support platform for multi-disease risk stratification. Focused on precision medicine and end-to-end clinical data pipelines.
-> <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow&theme=dark" height="25" />
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=100&section=header&text=📊%20Stock%20Price%20Predictor&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
-</div>
-
-> **Financial Time-Series Forecaster**
-> High-precision forecasting system using ARIMA for historical analysis and market trend prediction. Transforming financial data into actionable market insights.
-> <img src="https://skillicons.dev/icons?i=python,sklearn,flask&theme=dark" height="25" />
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=100&section=header&text=🎮%20KBC%20Quiz%20Game&fontSize=40&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" />
-</div>
-
-> **Interactive Learning Interface**
-> Engrossing full-stack quiz system featuring real-time state management and fluid UI/UX. A polished demonstration of front-end logic and state persistence.
-> <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" height="25" />
-
-<br/>
+> [!NOTE]
+> My projects focus on **Agentic Orchestration**, **Predictive Health Analytics**, and **High-Frequency Financial Forecasting**. I prioritize clean architecture and scalable intelligence in every commit.
 
 ---
 
 ### **Strategic Research**
-> [!NOTE]
+> [!TIP]
 > **BIOSAFS**: *Bio-Spatial Encoding & Adaptive Flow Search*
 > A specialized framework designed to resolve computational bottlenecks in genomic sequence analysis through novel indexing and lossless compression.
 
