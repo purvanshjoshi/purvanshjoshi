@@ -77,9 +77,9 @@ I am a **Software Architect** and **Machine Learning Engineer** driven by techni
 ### **Growth Analytics**
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="48%" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=purvanshjoshi&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="48%" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=purvanshjoshi&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="48%" /> -->
 </div>
 
 <br/>
