@@ -12,7 +12,7 @@
 
 <!-- Professional Badges -->
 <p align="center">
-  <a href="https://purvanshjoshi.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" /></a>
+  <a href="https://portfolio-gray-one-24.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=58a6ff" /></a>
   <a href="https://linkedin.com/in/purvansh-joshi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:purvanshjoshi7534011576@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
