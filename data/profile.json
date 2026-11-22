@@ -1,37 +1,9 @@
 {
   "login": "purvanshjoshi",
   "name": "Purvansh Joshi",
-  "fetched_at": "2026-11-21T09:52:25Z",
-  "total_contributions": 7907,
+  "fetched_at": "2026-11-22T09:48:59Z",
+  "total_contributions": 7950,
   "days": [
-    {
-      "date": "2025-11-16",
-      "count": 0
-    },
-    {
-      "date": "2025-11-17",
-      "count": 0
-    },
-    {
-      "date": "2025-11-18",
-      "count": 0
-    },
-    {
-      "date": "2025-11-19",
-      "count": 0
-    },
-    {
-      "date": "2025-11-20",
-      "count": 0
-    },
-    {
-      "date": "2025-11-21",
-      "count": 0
-    },
-    {
-      "date": "2025-11-22",
-      "count": 0
-    },
     {
       "date": "2025-11-23",
       "count": 19
@@ -1486,7 +1458,11 @@
     },
     {
       "date": "2026-11-21",
-      "count": 31
+      "count": 69
+    },
+    {
+      "date": "2026-11-22",
+      "count": 5
     }
   ],
   "repos": [
